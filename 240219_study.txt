@@ -1,0 +1,106 @@
+illust
+
+마스크-선을 따서 배경 지우기
+(닫힌 패스에서만 적용됨)
+object->clipping mask->make(ctrl+7)
+
+smooth tool-패스 주위에 선그리면 날카롭던 선들이 정리가됨
+
+서체도 마스크가 가능하다!
+
+서체의 성격을 일반 패스로 바꾸는방법
+1.서체object클릭후 object 메뉴에서 expand클릭
+2.type메뉴 create outline 으로도 가능
+
+도형을 추가할 시...
+pathfinder로 unite해준다음 mask를 해주면됨
+
+
+magic wand tool 사용법
+
+blend:입체적인 gradient 효과
+blend option
+distance:정해진 픽셀마다 라인형성
+steps:정해진 갯수만큼 라인형성
+
+expand->패스의성격이 아닌 오브젝트를 패스의 성격을 줌
+outline stroke:선에 면의 성격을 줌
+-------------------------------------------------------------------------------------------
+git
+d2coding ligature -> ligature.ttf 설치
+gitbash 우클릭 options->text->d2codingligature/굵게 저장
+
+html
+html폼(essential for furthur studies)
+
+<!DOCTYPE html>         ->문서의 종류를 선언한것
+<!-- html 주석 -->    주석:페이지 안에서 안보여지는것
+<!--
+DTD선언:브라우저에게 웹 문서의 종류를 알려주는 선언
+브라우저의 호환성과 웹표준을 위해 반드시 작성
+html 문서 최상단에 작성
+-->      
+<html lang="ko">                -><요소 속성 - 값>/검색엔진한테 한국어라는걸 알려줌
+ <head>
+  <!-- "utf-8" 문서에 맞는 언어로 보여줌-->  	
+  <meta charset="utf-8">      ->언어설정***중요하다!
+  <title>웹 페이지의 탭 부분</title>
+ </head>
+
+----------------------------------------기본값------------------------------------------------
+
+ <body>
+ 브라우저에서 보여지는 부분
+ Hyper Text Markup Language
+
+<!--
+https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+<tag>태그</tag>
+<br> 열린태그
+<br/> xml기반 열린태그(옛날버전or React사용)
+-->
+ </body>
+</html>
+-------------------------------------------------------------------------------
+
+html구성요소
+태그<a*요소* hnef*속성* = "값"*값*> 내용 </a>
+요소는 태그에 한개만 존재가능, 하지만 속성과 값은 1개이상 존재가능
+
+(opening tag)+ (content) +(closing tag)=one element
+
+각각의 태그가 가진 의미들을 공부하는게 효율적!
+
+html root->최상위 루트
+
+html로 시작해서 html로 끝나야한다!
+
+---------------------------------------------------------------------------------
+visual code
+setting->font family 
+'D2Coding', Consolas, 'Courier New', monospace
+
+editor:tab size 
+2
+
+------------------------------------------------------------------------------------
+ward wrap
+On->자동 줄바꿈
+
+
+visual code사용시
+파일저장(어떤 종류의 문서인지) ex)html,css etc...
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+illustrator
+
+object->path->clean up
+공백의 오브젝트들을 삭제해준다
+겹쳐지는부분(짤리는부분) 예상하고 그리기!
+
+text wrap -> 문단이 겹쳐진 도형을 피해서 글이 써짐
+
+선을그리고, width tool로 선의 굵기 변경가능
+property->add to profile : 만든 굵기 저장가능
+
+3D
+object 선택후 effect->3D->extrude & bevel
+object->expand appearance
+
+----------------------------------------------------------------------------------------
+
+visual code
+
+테마바꾸기
+톱니바퀴->테마->선택
+vscode->원하는 테마 설치 가능
+
+html아이콘 테마 변경
+
+w3c validator로 validity확인가능
+
+html은 역사적으로 블록레벨 요소와 인라인 요소로 나뉜다
+
+주석의 단축키 : ctrl+/

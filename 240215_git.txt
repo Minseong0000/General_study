@@ -1,0 +1,65 @@
+#Illustrator
+패스 수정법
+직접 선택툴로 들어가서 수정
+
+방향선 수정법(***)
+펜툴인 상태로, alt키 누르고 방향점 수정후 클릭 드래그 반복
+
+기준점 없애는법
+기준점 한곳을 클릭한다
+
+ctrl+F/B : 같은 위치에 붙여넣기
+
+shift+방향키: 옮기기
+
+object tool->alt 누른상태로 드래그(복사)
+(shift누르면서 하면 가이드 라인 표시)
+tip!: ctrl + D 앞선 작업 반복
+
+stroke option
+-패스의 끝처리 작업
+-점선만들기
+-화살표 작업 등등
+
+도형 툴
+드래그 후 방향키로 꼭지점 조정 가능
+클릭후 크기 조절 가능
+
+기준점 추가
+펜툴로 세그먼트(선) 위에 클릭
+확인법: 선택툴로 기준점 움직여보기
+
+기준점의 방향선의 성격 바꾸기
+선택툴에서 기준점 1개이상 드래그후 convert
+
+열린패스닫기
+1.오브젝트 클릭후 팬투 변경후 기준점들 연결
+2.선택툴로 연결하고 싶은 기준점들 드래그(shift로 복수 선택가능)
+2-1 마우스 우측버튼 join 클릭(단축기 ctrl+J) 2개의 점만 연결 가능
+
+pathfinder
+path 겹친거 안겹친거 편집툴
+expand: united shape->to one path
+(다수의 닫힌 패스(도형 등)들을 하나로 만든다)
+
+
+
+#git
+
+git switch - :바로 직전 브랜치로 이동
+git의 브랜치의 생성 시점 생성한 공간을 복사함
+
+git 브랜치 합체
+git merge sub(합체할 공간에서)
+
+:wq (vim에서 나오기)
+
+git & git hub 연동
+로컬 사용자 정보 동일하게 (이름/전자메일주소)
+git remote add origin https://...... :github내 저장소와 연동(but 확정x)
+git push -u origin main 이후 github에 연동됨
+
+git config --unset --global user.name/email=이름/이메일 연동해제
+git remote rm origin =연동해제
+
+제어판->자격증명관리자->windows 자격증명->github 자격 삭제

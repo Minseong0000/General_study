@@ -1,0 +1,22 @@
+photoshop
+
+edit->preferences->general(환경설정)
+reset all warning dialogs->초기화
+export->transparency
+performance->사양 설정...?
+툴바 리셋->점3개있는거 눌러서 restore defaults->done
+ctrl J->layer복사
+select inverse-커서로 잡은 영역 바깥선이 선택됨
+방향선 없애는법 alt+방향선 클릭
+
+이미지 크기 조정
+image->image size
+chain->같은 비율로 크기 조정
+canvas size->공간 크기만 줄이기(이미지는 그대로)+(기준점 설정가능)
+
+
+[,] 브러쉬 영역 축소.확대 가능
+배경지우는작업
+---------------------------------------------------------------------------------------
+
+HTML
