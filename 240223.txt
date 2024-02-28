@@ -1,0 +1,63 @@
+photoshop
+
+alt+del=전경색
+ctrl+del=배경색
+
+ctrl+T=pre transform
+=같은 비율로 크기 조절
+크기 조절을 해도 픽셀이 날라가지 않음
+
+
+smartobject icon더블클릭하면 파일 원본이 열림
+작업후 저장(ctrl+s)후 창닫음(ctrl+w)하면 부분수정된 작업이 적용됨
+
+history->원본등등 전환가능
+
+rasterize layer->변환된 layer들을 일반layer로 바꿔줌
+
+puppet warp->압정박기
+고정핀을 두고, 오브젝트를 구부리는 작업을 할 수 있다.
+
+smartobject후 puppet warp사용시 하위에 layer가 생김
+puppet warp시야 클릭시 원복으로 살림
+puppet warp글자 더블클릭시 수정가능
+
+***
+1일러스트파일을 포토샵에 드래그로 파일을 열면, 스마트오브젝트로 열림.
+2스마트오브젝트 아이콘 클릭하면 일러스트 파일이 열리는데, 일러스트에서 파일 수정
+하면 포토샵에도 연동되어 수정된 작업이 나타남.
+
+부분수정만 원할경우?
+
+image rotation->canvas자체를 수정한다
+
+
+***crop->수정할 파일 조정->lasso tool로 배경제외 드래그선택후 select invert->fill
+->content aware->okay->배경 생성
+
+***content aware move tool->원하는 영역 선택->드래그하여 움직여서 엔터
+
+shift를 누르고 크기조절->비율파괴
+shift+alt 누르고 크기조절->비율파괴+양쪽으로 같은 양만큼 늘어남
+
+***lasso tool로 원하는 영역 선택후 select save->저장
+content-aware scale->상단 바에 사람모양클릭->이미지 확대해도 선택영역은 안바뀜
+
+머리카락작업할때...?
+1.lasso tool 로 영역 선택후 우클릭후 select and mask
+2.refine edge brush tool
+3.view->overlay,black&white 번갈아가며 봄
+4.overlay에서 머리카락만 드래그
+5.black&white로 선택부분 확인
+6.output setting->output to:저장위치/방식 
+
+정렬하기
+1정렬하고싶은 레이어들 한꺼번에 잡고(ctrl키 누르고 레이어 선택)
+2상단옵션에 align tool에서 필요한거 사용
+
+글자를 패스로 바꾸기
+layer 우클릭후 rasterize type
+
+------------------------------------------------------------------------------------------
+
+
