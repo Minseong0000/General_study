@@ -1,0 +1,10 @@
+photoshop
+(258~pg-filter종류 등..)
+
+photoshop GIF 만드는법
+window->timeline->create farme animation(문구클릭)
+프레임 추가(레이어 눈을 감겨서 프레임마다 저장
+저장->save for web->브라우저에서 확인
+
+영상 레이어로 바꾸는법
+file->import->영상파일 클릭
