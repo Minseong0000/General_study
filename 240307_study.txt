@@ -1,0 +1,16 @@
+figma
+
+백터 이미지로 파일 저장하기
+export-> svg -> export vector
+->일러스트에서 열 수 있다.
+
+frame 클릭 후 clip content-> 부분겹침 프레임이 보이게함
+
+prototype
+scroll behavior->sticky(스크롤하면 따라 올라옴)
+
+순서
+tabbar
+statusbar
+title3~1
+img1~3

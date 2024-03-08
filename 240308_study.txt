@@ -1,0 +1,10 @@
+피그마
+slide
+1.프레임에서 도형 삽입 후 오토 레이아웃(horizontal 정렬), 이미지 넣기
+2.오토 레이아웃 프레임만 기존 프레임 사이즈에 맞게 조절
+3.오토 레이아웃의 prototype ->overflow->horizontal
+
+floating button action
+->아이콘 생성후 effect로 입체감 주고, 
+아이콘 터치 전,후의 프레임을 생성후 interaction으로 묶어주기
+
