@@ -1,0 +1,43 @@
+UI/UX
+interface: 서로 다른 두 시스템이나 장치 또는 소프트웨어 등을 이어주는 접속 장치
+
+UI종류
+CLI(command line interface): 사용자가 인터페이스에 단일 명령을 입력하면 컴퓨터가
+수신하고 같은 방식으로 프롬프트에 응답하는 구조.
+GUI(graphic user interface): 아이콘이나 그림과 같은 그래픽 요소를 배치하고, 마우스 등의
+포인팅 장치를 이용해 조작한다.
+
+UI평가기준
+Learnability
+Efficiency
+Memorability
+Erros
+Satisfaction
+
+heuristic evaluation: 인간의 직관이나 경험에 기반하여 문제를 해결하거나 학습, 발견하는
+방법을 지칭(p32)
+1.시스템 상태의 시각화
+2.현실 세계와 일치하는 시스템
+3.자유와 주도권을 사용자에게 제공
+4.일관성과 표준성
+5.오류예방
+6.직관적으로 이해할 수 있는 디자인
+7.유연성과 효율성
+8.간결하고 미학적인 디자인
+9.help users with errors
+10.도움말 설명서 제공
+스큐어모픽 디자인(162p)
+
+UX user experience 사용자 경험
+
+개념
+expect,experience,excuse
+
+공부해야할pg170,178
+172~306pg
+
+
+
+
+
+
